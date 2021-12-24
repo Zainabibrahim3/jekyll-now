@@ -3,13 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Zainab Ibrahim 
+name: ainab Ibrahim
 
 # Short bio or description (displayed in the header)
 description: Student of Nile University, Studying Information Technology
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzi-Br0LFbSJ60Aofwtr4ouOb6fYMZWDAwaq-cwgwIpKWV1vAn0yCL5BOipNf-rRxHwS8&usqp=CAU
+
 #
 # Flags below are optional
 #
@@ -17,11 +18,11 @@ avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzi-Br0LFbSJ60Aofw
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: Zainab2000ibrahim@gmail.co
+  email: Zainab2000ibrahim@gmail.com
   facebook:
   flickr:
-  github: 
-  instagram: zainabb_ibrahim
+  github: zainabb_ibrahim
+  instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
