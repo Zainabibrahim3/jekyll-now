@@ -4,5 +4,32 @@ title: About
 permalink: /about/
 ---
 
-## Zainab Ibrahim
-Hi, My Name is Zainab Ibrahim, I am an undergraduate of Nile University, studying Information Technology. I am simple, beautiful, elegant, Kindhearted, Caring, Goal oriented and intelligent. 
+### Zainab Ibrahim
+Cell: +234 811 306 5396
+Address: Area 2, Plateau street  Bacita close Abuja, Nigeria
+
+### Education:
+
+### Nigerian Tulip International College
+
+### Certificate: 
+First School Leaving Certificate
+
+### Nigerian Tulip International College
+
+### Certificate:
+Senior Secondary School Certificate
+
+### Nile University
+
+### Certificate:
+Bsc. Information Technology
+
+### Skills:
+Swimming, Hardworking, Smart
+
+### Contact me
+
+[Email](mailto:Zainab2000ibrahim@gmail.com)
+[instagram](zainabb_ibrahim)
+[twitter](_zainab_ibrahim)
