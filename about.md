@@ -4,12 +4,34 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### Zainab Ibrahim
 
-A place to include any other types of information that you'd like to include about yourself.
+Cell: +234 811 306 5396
+Address: Area 2, Plateau street  Bacita close Abuja, Nigeria
+
+### Education:
+
+### Nigerian Tulip International College
+
+### Certificate: 
+First School Leaving Certificate
+
+### Nigerian Tulip International College
+
+### Certificate:
+Senior Secondary School Certificate
+
+### Nile University
+
+### Certificate:
+Bsc. Information Technology
+
+### Skills:
+Swimming, Hardworking, Smart
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email](mailto:Zainab2000ibrahim@gmail.com)
+[instagram](zainabb_ibrahim)
+[twitter](_zainab_ibrahim)
